@@ -1,7 +1,18 @@
-print('hello')
-print('hello2')
-print('hello3')
-print('hello4')
+import requests
 
 
-print('def  ')
+
+
+
+def writeinxlsx():
+    pass
+
+def downl_img():
+    pass
+
+def main():
+    pass
+
+
+if __name__ == '__main__':
+    main()
