@@ -4,6 +4,11 @@ import time
 
 
 
+
+def convert_img(file_path):
+    return file_path
+
+
 def get_file():
     pass
 
